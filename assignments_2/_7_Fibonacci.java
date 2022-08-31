@@ -11,7 +11,7 @@ public class _7_Fibonacci {
 
         int first = 0,second = 1,sum;
         System.out.print(first+", "+second);
-        for (int i=0; i<position-2; i++) {
+        for (int i=2; i<position; i++) {
             sum = first + second;
             System.out.print(", "+sum);
             first = second;
