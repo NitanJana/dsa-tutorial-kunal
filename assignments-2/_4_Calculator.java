@@ -1,6 +1,6 @@
 /*Take in two numbers and an operator (+, -, *, /) and calculate the value.
 (Use if conditions)*/
-package Basic;
+
 
 import java.util.Objects;
 import java.util.Scanner;
