@@ -2,7 +2,7 @@
 find Simple Interest.*/
 import java.util.Scanner;
 
-public class _3_SimpleInterest {
+public class simpleInterest {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter the principal amount: ");

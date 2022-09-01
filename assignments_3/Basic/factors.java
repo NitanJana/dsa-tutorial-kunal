@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class _23_factors {
+public class factors {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

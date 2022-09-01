@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class _5_areaParallelogram {
+public class areaParallelogram {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

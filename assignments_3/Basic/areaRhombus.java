@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class _6_Rhombus {
+public class areaRhombus {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

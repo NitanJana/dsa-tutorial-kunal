@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class _24_sumNumbers {
+public class sumNumbers {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

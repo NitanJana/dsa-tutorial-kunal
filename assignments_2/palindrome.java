@@ -4,7 +4,7 @@
 import java.util.Objects;
 import java.util.Scanner;
 
-public class _8_Palindrome {
+public class palindrome {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Enter a string to check if it is palindrome:");

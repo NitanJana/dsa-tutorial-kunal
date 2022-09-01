@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class _22_subtractProductSum {
+public class subtractProductSum {
     public static void main(String[] args) {
         Scanner sc = new Scanner (System.in);
         System.out.print("Enter the number: ");

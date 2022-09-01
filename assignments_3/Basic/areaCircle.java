@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class _1_areaCircle {
+public class areaCircle {
     private static final double PI = 3.14;
 
     public static void main(String args[]) {

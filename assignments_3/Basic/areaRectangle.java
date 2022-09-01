@@ -1,7 +1,7 @@
 /* Java program to calculate area of Rectangle*/
 import java.util.Scanner;
 
-public class _3_areaRectangle {
+public class areaRectangle {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

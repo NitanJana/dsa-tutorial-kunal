@@ -3,7 +3,7 @@
 
 import java.util.Scanner;
 
-public class _7_Fibonacci {
+public class fibonacci {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter a position in the fibonacci series: ");

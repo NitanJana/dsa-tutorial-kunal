@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class _2_areaTriangle {
+public class areaTriangle {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         

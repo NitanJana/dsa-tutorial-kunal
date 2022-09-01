@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class _6_CurrencyConverter {
+public class currencyConverter {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter the value in inr: ");
