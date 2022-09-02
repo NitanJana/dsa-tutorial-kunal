@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class areaCircumCircle {
+public class AreaCircumCircle {
     public static final double PI = 3.14;
 
     public static double area(double radius)  {

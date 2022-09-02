@@ -3,7 +3,7 @@
 
 import java.util.Scanner;
 
-public class triplet {
+public class Triplet {
     public static boolean isTriplet(int num1, int num2, int num3) {
         int x = num1 * num1;
         int y = num2 * num2;

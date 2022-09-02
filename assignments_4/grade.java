@@ -11,7 +11,7 @@ Marks        Grade
 
 import java.util.Scanner;
 
-public class grade {
+public class Grade {
     public static String getGrade(int marks) {
         String grade = new String();
         

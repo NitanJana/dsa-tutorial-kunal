@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class maxMin {
+public class MaxMin {
     
     public static int max(int first, int second, int third) {
         int max = first;

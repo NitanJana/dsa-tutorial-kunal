@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class palindrome {
+public class Palindrome {
     public static void isPalindrome(int num) {
         int temp = num,reverse = 0;
         while (temp != 0) {

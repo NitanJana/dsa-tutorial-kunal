@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /* Define a method that returns the product of two numbers entered by user. */
-public class product {
+public class Product {
     public static void getProduct(int num1, int num2)  {
         System.out.println("The product of these two numbers are: "+(num1 * num2));
     }

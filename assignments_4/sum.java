@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /* Write a program to print the sum of two numbers entered by user by defining your own method */
 
-public class sum {
+public class Sum {
     public static int add(int num1, int num2)  {
         return (num1 + num2);
     }
