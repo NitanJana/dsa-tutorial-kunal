@@ -11,12 +11,12 @@ public class PrimeRange {
         int num2 = sc.nextInt();
 
         System.out.print("The prime nmubers are: ");
-        PrimeRange(num1, num2);
+        primeRange(num1, num2);
 
         sc.close();
     }
 
-    private static void PrimeRange(int num1, int num2) {
+    private static void primeRange(int num1, int num2) {
         for (int i = num1; i < num2; i++) {
             if(isPrime(i)) {
                 System.out.print(i+" ");

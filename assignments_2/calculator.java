@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 import static java.lang.System.out;
 
-public class calculator {
+public class Calculator {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         out.print("Enter first Number: ");

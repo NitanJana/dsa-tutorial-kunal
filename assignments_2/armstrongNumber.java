@@ -3,7 +3,7 @@
 
 import java.util.Scanner;
 
-public class armstrongNumber {
+public class ArmstrongNumber {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter the lower number: ");

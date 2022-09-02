@@ -3,7 +3,7 @@
 
 import java.util.Scanner;
 
-public class largestNumber {
+public class LargestNumber {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Enter two numbers: ");
